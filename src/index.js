@@ -2,16 +2,16 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './Components/App/App';
-import { Router } from 'react-router';
+import { HashRouter } from 'react-router-dom';
 import { createBrowserHistory } from 'history';
 import reportWebVitals from './reportWebVitals';
 
 const history = createBrowserHistory();
 
 ReactDOM.render(
-  <Router history={history}>
+  <HashRouter history={history}>
     <App />
-  </Router>,
+  </HashRouter>,
   document.getElementById('root')
 );
 

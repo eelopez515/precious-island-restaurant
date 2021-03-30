@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/precious-island-restaurant/static/css/main.b80ce52f.chunk.css",
+    "main.js": "/precious-island-restaurant/static/js/main.b88f2a1b.chunk.js",
+    "main.js.map": "/precious-island-restaurant/static/js/main.b88f2a1b.chunk.js.map",
+    "runtime-main.js": "/precious-island-restaurant/static/js/runtime-main.b3e86dbd.js",
+    "runtime-main.js.map": "/precious-island-restaurant/static/js/runtime-main.b3e86dbd.js.map",
+    "static/js/2.76769c73.chunk.js": "/precious-island-restaurant/static/js/2.76769c73.chunk.js",
+    "static/js/2.76769c73.chunk.js.map": "/precious-island-restaurant/static/js/2.76769c73.chunk.js.map",
+    "static/js/3.c4b78224.chunk.js": "/precious-island-restaurant/static/js/3.c4b78224.chunk.js",
+    "static/js/3.c4b78224.chunk.js.map": "/precious-island-restaurant/static/js/3.c4b78224.chunk.js.map",
+    "index.html": "/precious-island-restaurant/index.html",
+    "static/css/main.b80ce52f.chunk.css.map": "/precious-island-restaurant/static/css/main.b80ce52f.chunk.css.map",
+    "static/js/2.76769c73.chunk.js.LICENSE.txt": "/precious-island-restaurant/static/js/2.76769c73.chunk.js.LICENSE.txt",
+    "static/media/About-Background.7a557077.png": "/precious-island-restaurant/static/media/About-Background.7a557077.png",
+    "static/media/Flower.c4b978a4.png": "/precious-island-restaurant/static/media/Flower.c4b978a4.png",
+    "static/media/Header-Logo.55f4155d.png": "/precious-island-restaurant/static/media/Header-Logo.55f4155d.png",
+    "static/media/App.css": "/precious-island-restaurant/static/media/dk-hofstad-webfont.fb13b036.woff2",
+    "static/media/menu-back.864ed58d.png": "/precious-island-restaurant/static/media/menu-back.864ed58d.png",
+    "static/media/menu-front-cropped.9dcaa601.png": "/precious-island-restaurant/static/media/menu-front-cropped.9dcaa601.png",
+    "static/media/menu-logo.55f4155d.png": "/precious-island-restaurant/static/media/menu-logo.55f4155d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3e86dbd.js",
+    "static/js/2.76769c73.chunk.js",
+    "static/css/main.b80ce52f.chunk.css",
+    "static/js/main.b88f2a1b.chunk.js"
+  ]
+}

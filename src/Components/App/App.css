@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'dk_hofstadregular';
+  src: url('../../Fonts/webfontkit-20210327-115538/dk-hofstad-webfont.woff2')
+      format('woff2'),
+    url('../../Fonts/webfontkit-20210327-115538/dk-hofstad-webfont.woff')
+      format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'dk_hofstadregular';
+  background-color: #e8e8e8;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}

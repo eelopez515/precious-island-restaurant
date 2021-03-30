@@ -40,7 +40,7 @@
 
 @media screen and (max-width: 650px) {
   .contact__info {
-    top: 2%;
+    top: 5%;
     flex-direction: column;
   }
   .contact__titles {

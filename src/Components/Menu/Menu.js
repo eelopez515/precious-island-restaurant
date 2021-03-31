@@ -3,6 +3,8 @@ import ModalImage from 'react-modal-image';
 import menuLogo from '../../Assets/Menu/menu-logo.png';
 import frontMenu from '../../Assets/Menu/menu-front-cropped.png';
 import backMenu from '../../Assets/Menu/menu-back.png';
+//Components
+import Background from '../Background/Background';
 
 import './Menu.css';
 
@@ -30,6 +32,7 @@ function Menu() {
           />
         </div>
       </div>
+      <Background />
     </div>
   );
 }

@@ -1,0 +1,16 @@
+.background {
+  display: flex;
+  position: fixed;
+  bottom: 0;
+  height: 100px;
+  width: 100%;
+  background-color: #e8e8e8;
+  box-shadow: 0 -4px 6px -6px rgba(0, 0, 0, 0.5);
+}
+
+.background__image {
+  display: flex;
+  z-index: 1;
+  height: 100%;
+  width: 100%;
+}

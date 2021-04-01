@@ -1,29 +1,32 @@
 {
   "files": {
-    "main.css": "/precious-island-restaurant/static/css/main.ea6a8368.chunk.css",
-    "main.js": "/precious-island-restaurant/static/js/main.438a36b8.chunk.js",
-    "main.js.map": "/precious-island-restaurant/static/js/main.438a36b8.chunk.js.map",
+    "main.css": "/precious-island-restaurant/static/css/main.11a0bba9.chunk.css",
+    "main.js": "/precious-island-restaurant/static/js/main.0e8d7924.chunk.js",
+    "main.js.map": "/precious-island-restaurant/static/js/main.0e8d7924.chunk.js.map",
     "runtime-main.js": "/precious-island-restaurant/static/js/runtime-main.387fee59.js",
     "runtime-main.js.map": "/precious-island-restaurant/static/js/runtime-main.387fee59.js.map",
-    "static/js/2.ebb713fb.chunk.js": "/precious-island-restaurant/static/js/2.ebb713fb.chunk.js",
-    "static/js/2.ebb713fb.chunk.js.map": "/precious-island-restaurant/static/js/2.ebb713fb.chunk.js.map",
+    "static/js/2.2330530d.chunk.js": "/precious-island-restaurant/static/js/2.2330530d.chunk.js",
+    "static/js/2.2330530d.chunk.js.map": "/precious-island-restaurant/static/js/2.2330530d.chunk.js.map",
     "static/js/3.bc85d9bf.chunk.js": "/precious-island-restaurant/static/js/3.bc85d9bf.chunk.js",
     "static/js/3.bc85d9bf.chunk.js.map": "/precious-island-restaurant/static/js/3.bc85d9bf.chunk.js.map",
     "index.html": "/precious-island-restaurant/index.html",
-    "static/css/main.ea6a8368.chunk.css.map": "/precious-island-restaurant/static/css/main.ea6a8368.chunk.css.map",
-    "static/js/2.ebb713fb.chunk.js.LICENSE.txt": "/precious-island-restaurant/static/js/2.ebb713fb.chunk.js.LICENSE.txt",
+    "static/css/main.11a0bba9.chunk.css.map": "/precious-island-restaurant/static/css/main.11a0bba9.chunk.css.map",
+    "static/js/2.2330530d.chunk.js.LICENSE.txt": "/precious-island-restaurant/static/js/2.2330530d.chunk.js.LICENSE.txt",
     "static/media/About-Background.7a557077.png": "/precious-island-restaurant/static/media/About-Background.7a557077.png",
     "static/media/Flower.c4b978a4.png": "/precious-island-restaurant/static/media/Flower.c4b978a4.png",
     "static/media/Header-Logo.55f4155d.png": "/precious-island-restaurant/static/media/Header-Logo.55f4155d.png",
+    "static/media/cloud-bottom.0f7e7c0a.png": "/precious-island-restaurant/static/media/cloud-bottom.0f7e7c0a.png",
+    "static/media/cloud-top.d4ab8cf7.png": "/precious-island-restaurant/static/media/cloud-top.d4ab8cf7.png",
     "static/media/App.css": "/precious-island-restaurant/static/media/dk-hofstad-webfont.fb13b036.woff2",
+    "static/media/logo-grey.9a8a09d6.png": "/precious-island-restaurant/static/media/logo-grey.9a8a09d6.png",
     "static/media/menu-back.864ed58d.png": "/precious-island-restaurant/static/media/menu-back.864ed58d.png",
     "static/media/menu-front-cropped.9dcaa601.png": "/precious-island-restaurant/static/media/menu-front-cropped.9dcaa601.png",
     "static/media/menu-logo.55f4155d.png": "/precious-island-restaurant/static/media/menu-logo.55f4155d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.387fee59.js",
-    "static/js/2.ebb713fb.chunk.js",
-    "static/css/main.ea6a8368.chunk.css",
-    "static/js/main.438a36b8.chunk.js"
+    "static/js/2.2330530d.chunk.js",
+    "static/css/main.11a0bba9.chunk.css",
+    "static/js/main.0e8d7924.chunk.js"
   ]
 }

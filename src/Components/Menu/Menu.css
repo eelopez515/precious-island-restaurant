@@ -82,10 +82,10 @@
     width: 160px;
   }
   .cloud__top {
-    top: 5px;
+    top: 1px;
   }
   .cloud__bottom {
-    bottom: 15px;
+    bottom: 5px;
   }
 }
 

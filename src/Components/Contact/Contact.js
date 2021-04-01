@@ -1,5 +1,6 @@
 import React from 'react';
 //Components
+import Background from '../Background/Background';
 import Map from '../Map/Map';
 
 import './Contact.css';
@@ -42,6 +43,7 @@ function Contact() {
             <Map />
           </div>
         </div>
+        <Background />
       </div>
     </div>
   );

@@ -6,7 +6,7 @@
 }
 
 .gallery__contents {
-  height: 92%;
+  height: 90%;
   width: 90%;
   display: flex;
   justify-content: space-evenly;
@@ -16,6 +16,7 @@
   font-size: 13px;
   text-align: left;
   overflow: scroll;
+  padding-bottom: 90px;
 }
 .gallery__content {
   margin: 10px;
@@ -40,4 +41,10 @@
 
 .chineseName {
   color: #920410;
+}
+
+@media screen and (max-height: 850px) {
+  .gallery__contents {
+    height: 82%;
+  }
 }

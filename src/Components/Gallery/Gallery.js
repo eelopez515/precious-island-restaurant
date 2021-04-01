@@ -2,6 +2,8 @@ import React, { useEffect, useState } from 'react';
 import Loading from '../Loading/Loading';
 import ModalImage from 'react-modal-image';
 import db from '../../Firebase/firebase';
+//Components
+import Background from '../Background/Background';
 
 import './Gallery.css';
 
@@ -44,6 +46,7 @@ function Gallery() {
           ))
         )}
       </div>
+      <Background />
     </div>
   );
 }

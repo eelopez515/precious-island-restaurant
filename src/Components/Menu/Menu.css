@@ -1,5 +1,5 @@
 .menu {
-  height: 200%;
+  height: 100%;
   width: 100%;
   display: flex;
   justify-content: center;
@@ -21,16 +21,32 @@
 .menu__logo {
   display: flex;
   position: absolute;
-  justify-content: center;
+  flex-direction: column;
+  justify-content: space-evenly;
   align-items: center;
   top: 0;
   left: 0;
   height: 48%;
   width: 50%;
 }
+.cloud__top {
+  position: absolute;
+  top: 0;
+  right: 5px;
+  height: 16vh;
+  width: 35vw;
+}
 .logo {
-  height: 100px;
-  width: 200px;
+  height: 12vh;
+  width: 28vw;
+}
+
+.cloud__bottom {
+  position: absolute;
+  height: 15vh;
+  width: 32vw;
+  bottom: 5px;
+  left: 10px;
 }
 
 .menu__front {
@@ -64,6 +80,12 @@
   .logo {
     height: 80px;
     width: 160px;
+  }
+  .cloud__top {
+    top: 10px;
+  }
+  .cloud__bottom {
+    bottom: 15px;
   }
 }
 

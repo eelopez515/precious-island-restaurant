@@ -3,8 +3,6 @@ import ModalImage from 'react-modal-image';
 import menuLogo from '../../Assets/Menu/menu-logo.png';
 import frontMenu from '../../Assets/Menu/menu-front-cropped.png';
 import backMenu from '../../Assets/Menu/menu-back.png';
-import cloudTop from '../../Assets/Menu/cloud-top.png';
-import cloudBottom from '../../Assets/Menu/cloud-bottom.png';
 //Components
 import Background from '../Background/Background';
 
@@ -15,9 +13,7 @@ function Menu() {
     <div className="menu">
       <div className="menu__contents">
         <div className="menu__logo">
-          <img className="cloud__top" src={cloudTop} alt="" />
           <img className="logo" src={menuLogo} alt="Logo" />
-          <img className="cloud__bottom" src={cloudBottom} alt="" />
         </div>
         <div className="menu__front">
           <ModalImage

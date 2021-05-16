@@ -13,7 +13,6 @@ function Homepage() {
       const collection = db.collection('homepage');
       const data = await collection.get();
       data.docs.forEach((doc) => {
-        console.log(doc);
         setImage(doc.data());
       });
     };
